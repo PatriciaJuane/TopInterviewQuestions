@@ -43,5 +43,4 @@ public class BinaryTree{
       // print the tree with inorder traversal
     } 
 
-
 }
